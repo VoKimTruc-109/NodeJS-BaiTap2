@@ -1,11 +1,4 @@
-## 1. Công nghệ sử dụng
-
-- Node.js
-- JavaScript
-- Module HTTP có sẵn trong Node.js
-- Visual Studio Code
-
-## 2. Cách chạy chương trình
+## 1. Cách chạy chương trình
 
 **Bước 1:** Mở thư mục chứa file `serverr.js` bằng Visual Studio Code.
 
