@@ -44,9 +44,3 @@ Server đang chạy tại http://localhost:3000
 ```text
 http://localhost:3000
 ```
-
-**Bước 6:** Quan sát kết quả trang web hiển thị họ tên và mã sinh viên.
-
-## 5. Liên kết GitHub
-
-https://github.com/VoKimTruc-109/NodeJS-BaiTap02
