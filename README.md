@@ -1,27 +1,11 @@
-# BÀI TẬP NODE.JS – HTTP SERVER
-
-## 1. Thông tin sinh viên
-
-- Họ và tên: Võ Kim Trúc
-- Mã sinh viên: CDCNTT18A31
-- Lớp: CD-CNTT18A
-
-## 2. Nội dung bài tập
-
-Tạo ứng dụng Node.js sử dụng module `http`.
-
-- Server chạy tại cổng 3000.
-- Khi truy cập trang chủ, server trả về nội dung HTML.
-- Trang web hiển thị họ tên và mã sinh viên.
-
-## 3. Công nghệ sử dụng
+## 1. Công nghệ sử dụng
 
 - Node.js
 - JavaScript
 - Module HTTP có sẵn trong Node.js
 - Visual Studio Code
 
-## 4. Cách chạy chương trình
+## 2. Cách chạy chương trình
 
 **Bước 1:** Mở thư mục chứa file `serverr.js` bằng Visual Studio Code.
 
